@@ -16,8 +16,9 @@ http://1969681.blog66.fc2.com/
 よろしくお願いいたします。
 
 
-使用方法
+## 使用方法
 
+詳細はDOCフォルダをご覧ください
 MT4のファイル保存
 
 Indicator ---> rsi_breakout , 180degree
