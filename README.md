@@ -14,3 +14,11 @@
 http://1969681.blog66.fc2.com/
 
 よろしくお願いいたします。
+
+
+使用方法
+
+MT4のファイル保存
+
+Indicator ---> rsi_breakout , 180degree
+Expert --->  saokyo_ea
