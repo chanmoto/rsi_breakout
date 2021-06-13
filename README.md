@@ -2,20 +2,6 @@
 
 最強ＥＡのダウンロード有難うございます。
 
-このたびは無料公開をさせて頂いておりますが、
-一点お願いがあります。
-
-私事ですが、現在は親の介護のため、
-収入減の状態で、皆様にはせめてのカンパではありませんが、
-楽天アフェリエイトでの購入をお願いしたく思います。
-
-下記のアフェリエイトから、購入いただけると
-せめてものポイントが当方に加わります。
-http://1969681.blog66.fc2.com/
-
-よろしくお願いいたします。
-
-
 ## 使用方法
 
 詳細はDOCフォルダをご覧ください
@@ -92,4 +78,4 @@ The download is a source file, which you can download to your indicator folder a
 
 ## Greetings
  I'm a salaried worker and I'm also a forex trader. I have a blog called "Technical Course for Beginners" that focuses on ease of understanding.
- http://1969681.blog66.fc2.com/
+
