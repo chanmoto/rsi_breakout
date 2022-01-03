@@ -7,8 +7,8 @@
 詳細はDOCフォルダをご覧ください
 MT4のファイル保存
 
-Indicator ---> rsi_breakout , 180degree
-Expert --->  saokyo_ea
+Indicator ---> rsi_breakout.mq4
+Expert --->  saokyo_ea_ver9.6.mq4
 
 
 # rsi_breakout
