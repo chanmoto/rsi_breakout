@@ -5,11 +5,14 @@
 ## 使用方法
 
 詳細はDOCフォルダをご覧ください
-MT4のファイル保存
+
+## MT4のファイル保存
 
 Indicator ---> rsi_breakout.mq4
+
 Expert --->  saokyo_ea_ver9.6.mq4
 
+set ---> Expert setting file
 
 # rsi_breakout
 
